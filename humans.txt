@@ -18,4 +18,8 @@
 asff
 vikas
 test
+<<<<<<< HEAD
 asdad
+=======
+docker
+>>>>>>> infra
